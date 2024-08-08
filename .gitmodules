@@ -1,36 +1,48 @@
 [submodule "libft"]
 	path = libft
 	url = git@github.com:wmemcpy/libft.git
+	branch = main
 [submodule "ft_printf"]
 	path = ft_printf
 	url = git@github.com:wmemcpy/ft_printf.git
+	branch = main
 [submodule "Born2beroot"]
 	path = Born2beroot
 	url = git@github.com:wmemcpy/Born2beroot.git
+	branch = main
 [submodule "get_next_line"]
 	path = get_next_line
 	url = git@github.com:wmemcpy/get_next_line.git
+	branch = main
 [submodule "fract-ol"]
 	path = fract-ol
 	url = git@github.com:wmemcpy/fract-ol.git
+	branch = main
 [submodule "NetPractice"]
 	path = NetPractice
 	url = git@github.com:wmemcpy/NetPractice.git
+	branch = main
 [submodule "Inception"]
 	path = Inception
 	url = git@github.com:wmemcpy/Inception.git
+	branch = main
 [submodule "ft_transcendence"]
 	path = ft_transcendence
 	url = git@github.com:wmemcpy/ft_transcendence.git
+	branch = main
 [submodule "CPP_Module"]
 	path = CPP_Module
 	url = git@github.com:wmemcpy/CPP_Module.git
+	branch = main
 [submodule "push_swap"]
 	path = push_swap
 	url = git@github.com:wmemcpy/push_swap.git
+	branch = main
 [submodule "pipex"]
 	path = pipex
 	url = git@github.com:wmemcpy/pipex.git
+	branch = main
 [submodule "philosophers"]
 	path = philosophers
 	url = git@github.com:wmemcpy/philosophers.git
+	branch = main
