@@ -46,3 +46,11 @@
 	path = philosophers
 	url = git@github.com:wmemcpy/philosophers.git
 	branch = main
+[submodule "webserv"]
+	path = webserv
+	url = https://github.com/SenseiSamy/webserv.git
+	branch = main
+[submodule "cub3D"]
+	path = cub3D
+	url = https://github.com/obouhlel/cub3D.git
+	branch = main
